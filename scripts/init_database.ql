@@ -1,6 +1,6 @@
 /*
 =============================================================
-Create Database and Schemas in mysql workbench
+Create Database and Schemas
 =============================================================
 Script Purpose:
     This script creates a new database named 'DataWarehouse' after checking if it already exists.
