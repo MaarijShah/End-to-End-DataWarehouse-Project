@@ -53,16 +53,8 @@ Microsoft SQL Server
 T-SQL
 SQL Server Management Studio (SSMS)
 CSV source files
-Git and GitHub
-📂 Repository Structure
-text
-sql-data-warehouse-project/
-├── 00_setup/       # Database setup
-├── 01_datasets/    # CRM and ERP source data
-├── 02_docs/        # Project documentation and diagrams
-├── 03_scripts/     # SQL scripts for ETL and data modeling
-├── 04_tests/       # Data quality checks
-└── README.md       # Project overview
+GitHub
+
 
 🚀 Getting Started
 Clone or download this repository.
