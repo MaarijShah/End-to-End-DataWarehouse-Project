@@ -251,35 +251,6 @@ Power BI or other BI tools: Potential reporting and visualization tools.
 
 The repository is organized into folders for setup, datasets, documentation, SQL scripts, and testing.
 
-text
-sql-data-warehouse-project/
-│
-├── 00_setup/
-│   └── Database setup scripts
-│
-├── 01_datasets/
-│   └── CRM and ERP source files
-│
-├── 02_docs/
-│   ├── data_architecture.png
-│   ├── data_catalog.md
-│   ├── data_flow.png
-│   ├── data_integration.png
-│   ├── data_layers.pdf
-│   ├── data_model.png
-│   ├── requirements.md
-│   └── project_documentation.md
-│
-├── 03_scripts/
-│   └── SQL scripts for the warehouse
-│
-├── 04_tests/
-│   └── Data quality and validation scripts
-│
-└── README.md
-
-
-Note: The folder descriptions summarize the repository structure. Actual script filenames and contents may vary.
 
 12. Conclusion
 
